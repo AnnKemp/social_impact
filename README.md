@@ -1,7 +1,7 @@
 # social_impact
 link naar de site: https://annkemp.github.io/social_impact/
 
-link naar de oude site: http://pourvous-brasschaat.be/contacteer-ons.html
+link naar de oude site: http://pourvous-brasschaat.be/index.html
 
 SHH: git@github.com:AnnKemp/social_impact.git
 

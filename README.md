@@ -4,6 +4,7 @@ link naar de site: https://annkemp.github.io/social_impact/
 SHH: git@github.com:AnnKemp/social_impact.git
 
 De opdracht:
+
 Red Line, Phase 0: "guerrilla"
 
     repository : social-impact-clientname
